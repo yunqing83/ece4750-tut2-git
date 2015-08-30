@@ -8,5 +8,5 @@
 language: bash
 
 script:
-    - grep apple fruit.txt
+    - grep blueberry fruit.txt
 
